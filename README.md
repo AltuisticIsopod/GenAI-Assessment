@@ -48,7 +48,6 @@ REACT_APP_API_URL=http://localhost:8000
 
 - `npm start` - Start development server
 - `npm build` - Build for production
-- `npm test` - Run tests
 - `npm eject` - Eject from Create React App
 
 ## API Endpoints
